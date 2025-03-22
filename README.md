@@ -3,7 +3,7 @@ Temele la grafica
 
 TODO LIST:
 
-✅ CG1
-❌ SG1
-CG2
-SG2
+✅ CG1 <br>
+❌ SG1 <br>
+- CG2 <br>
+- SG2 <br>
